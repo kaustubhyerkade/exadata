@@ -1,0 +1,2 @@
+# exadata
+about oracle exadata
